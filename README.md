@@ -1,4 +1,4 @@
-# Diamond_price_prediction
+# Diamond Price Prediction
 Dataset load (pyspark) , exploratory analysis of diamonds dataset and model building to predict price of diamonds 
 
 In this analysis, I'm trying to predict :
@@ -20,7 +20,7 @@ RMSE on Train       |     1229.05         |   1048.66         | 783.93
 RMSE on Test        |     1245.16         |   1232.56         | 929.19 
  
 
-Based on the overall performance above, it can be seen that Gradient Boosted Trees has the best performance among these three models, with the highest R squared, and the lowest RMSE which stands for Root Mean Square Error (standard deviation of the residuals). Hence, predictions from Gradient Boosted Trees model are the closest ones to the actual observations.
+```Based on the overall performance above, it can be seen that Gradient Boosted Trees has the best performance among these three models, with the highest R squared, and the lowest ````RMSE which stands for Root Mean Square Error (standard deviation of the residuals). Hence, predictions from Gradient Boosted Trees model are the closest ones to the actual ````observations.
 
 8. Conclusion: By the results of the analysis we understand that Carat and Table are the most important features of diamonds, although other features also influence the price.
                Now we know there are not only 4C’s affect the price of diamonds, Depth and Table could also have influence on price of diamonds.
