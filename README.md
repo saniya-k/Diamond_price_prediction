@@ -1,4 +1,4 @@
-# Diamond_price_prediction
+# Diamond Price Evaluation
 
 ***Assess what factors contribute to price of diamonds, and then building a predictive model (regression) to determine dollar value of diamonds***
 
