@@ -8,7 +8,7 @@
 
 There are guidelines, or the 4 C’s, were established by the Gemological Institute of America and are the basis of diamond value estimation. They include:
 
-![4c.png](/images/4c.png]
+![4c.png](/images/4c.png)
 
 ## Problem Statement
 
